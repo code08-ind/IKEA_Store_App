@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "prodid": 101,
+      "prodname": "Table",
+      "proddesc": "Wooden Table",
+      "price": 15000,
+      "category": "Furniture",
+      "prodimg": "https://plus.unsplash.com/premium_photo-1676823570572-966ea4c0e333?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": 102,
+      "prodname": "Chair",
+      "proddesc": "Wooden Chair",
+      "price": 14000,
+      "category": "Furniture",
+      "prodimg": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": 104,
+      "prodname": "Almirah",
+      "proddesc": "Wooden Almirah",
+      "price": "24000",
+      "category": "Storage",
+      "prodimg": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "103",
+      "prodname": "Desk",
+      "proddesc": "Wooden Desk",
+      "price": "16000",
+      "category": "Furniture",
+      "prodimg": "https://plus.unsplash.com/premium_photo-1673860150773-77522b536caa?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "105",
+      "prodname": "Light",
+      "proddesc": "Standing Designer Light",
+      "price": "30000",
+      "category": "Lighting",
+      "prodimg": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "107",
+      "prodname": "Snake Plant",
+      "proddesc": "Snake Plant Flower Base",
+      "price": "5000",
+      "category": "Decor",
+      "prodimg": "https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "108",
+      "prodname": "Book Rack",
+      "proddesc": "Elegant and Spacious Book Rack",
+      "price": "9000",
+      "category": "Storage",
+      "prodimg": "https://images.unsplash.com/photo-1532372320572-cda25653a26d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "109",
+      "prodname": "Sofa",
+      "proddesc": "Elegant Sofa With Beautiful Look",
+      "price": "25000",
+      "category": "Furniture",
+      "prodimg": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "110",
+      "prodname": "Candle",
+      "proddesc": "Elegant And Beautiful Candlelight Holder",
+      "price": "14000",
+      "category": "Lighting",
+      "prodimg": "https://plus.unsplash.com/premium_photo-1661490827639-c8793ab281d8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "111",
+      "prodname": "Kitchen Decor",
+      "proddesc": "Beautiful And Wonderful Design For Kitchen",
+      "price": "30000",
+      "category": "Decor",
+      "prodimg": "https://plus.unsplash.com/premium_photo-1686090446908-60fbb45f2805?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "112",
+      "prodname": "Hanging Lights",
+      "proddesc": "LED And Shiny Hanging Lights",
+      "price": "13500",
+      "category": "Lighting",
+      "prodimg": "https://images.unsplash.com/photo-1532182772104-90f63a50fec5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "113",
+      "prodname": "Center Desk",
+      "proddesc": "Center Drawing Room Wooden Desk",
+      "price": "23500",
+      "category": "Storage",
+      "prodimg": "https://images.unsplash.com/photo-1517467139951-f5a925c9f9de?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "114",
+      "prodname": "Flower Vase and Clock",
+      "proddesc": "Wonderful Combo of Watch and Vase",
+      "price": "15000",
+      "category": "Decor",
+      "prodimg": "https://images.unsplash.com/photo-1499933374294-4584851497cc?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "115",
+      "prodname": "Kitchen Lights",
+      "proddesc": "Elegant and Amazing Kitchen Hanging Lights",
+      "price": "14500",
+      "category": "Lighting",
+      "prodimg": "https://images.unsplash.com/photo-1565620731358-e8c038abc8d1?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "116",
+      "prodname": "Hanging Stand",
+      "proddesc": "Elegant Hanging Metal Stand For Clothes",
+      "price": "16500",
+      "category": "Storage",
+      "prodimg": "https://images.unsplash.com/photo-1501127122-f385ca6ddd9d?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "prodid": "106",
+      "prodname": "Dried Plant",
+      "proddesc": "Elegant and Purifying Dry Plants",
+      "price": "4500",
+      "category": "Decor",
+      "prodimg": "https://images.unsplash.com/photo-1529113241001-b495badd8d44?q=80&w=1942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
