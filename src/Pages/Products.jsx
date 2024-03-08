@@ -31,8 +31,9 @@ const Products = () => {
                     <div className="card-body">
                       <h5 className="card-title">{prod.prodname}</h5>
                       <p className="card-text">{prod.prodesc}</p>
+                      <p className='text-decoration-line-through text-bg-secondary'>${prod.price}</p>
                       <p className="card-text">
-                        <span>${prod.price}</span>
+                        <span className='text-info'>${prod.price * 0.9}</span>
                         &nbsp; | &nbsp;
                         <span className='text-success fw-semibold'>{prod.category}</span>
                       </p>
