@@ -60,7 +60,7 @@ const Product = () => {
 
         setTimeout(() => {
             navigate("/cart");
-        }, 2000);
+        }, 1000);
     }
 
     return (
@@ -72,8 +72,9 @@ const Product = () => {
                 <div className="col-md-6">
                     <h4 className='display-5'>{prodname}</h4>
                     <p className='text-secondary'>{proddesc}</p>
+                    <p className='text-decoration-line-through text-bg-secondary'>${price}</p>
                     <p>
-                        <span className='text-info'>${price}</span>
+                        <span className='text-info'>${price * 0.9}</span>
                         &nbsp;|&nbsp;
                         <span className='text-success'>{category}</span>
                     </p>
