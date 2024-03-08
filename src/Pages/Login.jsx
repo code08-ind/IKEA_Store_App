@@ -7,7 +7,7 @@ const Login = ({setIsLoggedIn}) => {
   const navigate = useNavigate();
 
   const checkCredentials = () => {
-    const isLoggedIn = (email === "admin" && password === "admin@123");
+    const isLoggedIn = (email === "admin123@gmail.com" && password === "admin@123");
     if (isLoggedIn) {
       alert("User Login Successful");
       navigate("/admin");
